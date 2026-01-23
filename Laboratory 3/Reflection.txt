@@ -1,6 +1,6 @@
 The square social media post was the easiest to design because the 1:1 aspect ratio provides a balanced canvas that is very intuitive for showcasing a single, clear idea like a skill highlight.
-To maintain consistency, I strictly applied my branding kit’s "Midnight Blue" and "Electric Teal" color palette alongside the JetBrains Mono typeface, which reflects my identity as a developer. 
+To maintain consistency, I strictly applied my branding kit’s minimal color palette alongside the  Recoleta Typeface, which reflects my identity as a developer. 
 I ensured readability and hierarchy by using bold, high-contrast headers for the primary information and implementing generous whitespace to prevent the layout from feeling cluttered. 
-On the promotional image, I specifically utilized font weight and size scaling to lead the viewer’s eye from the event title down to the call-to-action. 
+On the promotional image, I specifically utilized font weight, size scaling and color contrast to lead the viewer’s eye from the event title down to the call-to-action. 
 Through this process, I learned that social media graphics require a balance of technical precision in pixel dimensions and the psychological use of color to drive engagement. 
 This activity highlighted that while my code speaks to my logic, a cohesive visual identity is what effectively communicates my professional value to the tech community.
