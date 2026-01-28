@@ -1,0 +1,6 @@
+The app is named Nexus and its purpose is simple. A unified interface for all tasks. I'm a student and a big challenge I face is organizing tasks which is why I came up with Nexus. 
+The target users are students, most especially university students and the program aims to increase their efficiency and save time without sacrificing any deadlines. 
+The layout and colors of the program is simple and minimal designed to not overclutter the brain and simply stick to what is necessary. 
+The challenge was trying to create a unified hub that aggregates massive amounts of academic data without overwhelming the user visually. 
+I struggled to establish a clear information hierarchy that could display deadlines, recommendations, and other elements simultaneously while maintaining the "breathable" whitespace. 
+Given more time, I'll probably add more features that would improve the overall feel such as dark mode, a timer for the focus functionality, and some more UI changes probably. 
